@@ -1,5 +1,8 @@
 {
 	"name": "themoviedb",
 	"description": "Library for interfacing withe TMDB API v3",
-	"version": "0.0.1"
+	"version": "0.0.1",
+	"dependencies": {
+		"request": "2.36.1"
+	}
 }
